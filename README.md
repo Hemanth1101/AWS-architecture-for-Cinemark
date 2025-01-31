@@ -156,9 +156,5 @@ This repository contains the **AWS architecture blueprint** for a **scalable, se
 
 This **AWS-based solution** enables **Cinemark to deliver a seamless, AI-driven, and scalable theatre experience**. From **personalized recommendations to automated security and real-time analytics**, this architecture leverages AWS services **efficiently while ensuring security, cost optimization, and high availability**.  
 
-💬 **Would you add or modify anything in this architecture? Drop your thoughts below!**  
-
-🔗 **Follow me for more cloud architecture insights!**  
-
-#AWS #CloudComputing #Serverless #MachineLearning #IoT #Cinemark #AWSArchitecture #AI #CloudSecurity  
+ 
 
