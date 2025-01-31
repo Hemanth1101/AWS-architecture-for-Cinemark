@@ -148,7 +148,7 @@ This repository contains the **AWS architecture blueprint** for a **scalable, se
 
 ## **📌 Final Architecture Diagram**  
 
-![AWS Architecture Diagram](link-to-your-image.png) *(Upload your final architecture image and replace this link.)*  
+![AWS Architecture Diagram](https://github.com/Hemanth1101/AWS-architecture-for-Cinemark/blob/main/AWS%20architecture%20for%20CINEMARK.png) 
 
 ---
 
