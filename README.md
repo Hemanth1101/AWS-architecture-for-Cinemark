@@ -162,6 +162,3 @@ This **AWS-based solution** enables **Cinemark to deliver a seamless, AI-driven,
 
 #AWS #CloudComputing #Serverless #MachineLearning #IoT #Cinemark #AWSArchitecture #AI #CloudSecurity  
 
----
-
-Let me know if you need any modifications, or if you'd like me to help you upload and format this properly on **GitHub**! 🚀
