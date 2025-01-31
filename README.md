@@ -1,6 +1,6 @@
 # AWS-architecture-for-Cinemark
 AWS architecture for Cinemark
-Here’s a **detailed GitHub README-style documentation** that clearly explains your AWS architecture for the **Cinemark Movie Theatre Chain** from start to finish. You can copy and use this as a `README.md` file for your GitHub repository.
+
 
 ---
 
