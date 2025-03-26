@@ -12,7 +12,7 @@ This repository contains the **AWS architecture blueprint** for a **scalable, se
 ✅ **High Availability** – Using **Route 53, Global Accelerator, and ALB** for optimized traffic routing and failover.  
 ✅ **Low Latency Content Delivery** – Amazon **CloudFront & S3** for streaming **trailers, static website hosting, and theatre content**.  
 ✅ **Serverless API & Business Logic** – Using **API Gateway & AWS Lambda** to handle booking, payments, seat reservations, and QR code generation.  
-✅ **Scalable Database Management** – **DynamoDB for real-time booking sessions** and **RDS for structured financial transactions**.  
+✅ **Scalable Database Management** – **DynamoDB for real-time booking sessions** and **RDS for structured financial transactions**. 
 ✅ **AI-Powered Recommendations** – Using **Amazon SageMaker & Personalize AI** to suggest movies based on user preferences.  
 ✅ **Streaming Data & Analytics** – **Kinesis & Redshift** for real-time data ingestion and analytics.  
 ✅ **Security & Compliance** – Implementing **AWS WAF, Cognito, GuardDuty, and CloudTrail**.  
